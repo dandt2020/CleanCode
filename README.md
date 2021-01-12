@@ -11,3 +11,6 @@
 ## 3. [generic](https://github.com/dandt2020/CleanCode/tree/master/generic)
 	- Thực hành generic
 ## 4. ...
+
+## 5. OOP Design Patterns registration
+	- Bài tập Design Pattern (https://github.com/dandt2020/CleanCode/tree/master/registration)
