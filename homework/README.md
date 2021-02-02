@@ -65,18 +65,17 @@ private class Comment{
 
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
-	![](https://github.com/dandt2020/CleanCode/tree/master/graphiceditor/after)
+	[GraphicEditor](https://github.com/dandt2020/CleanCode/tree/master/graphiceditor/after)
 
 ### 2. Composition over Inheritance và DI
 Gõ link đến mã nguồn bài này vào đây
 
-
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
-
+	[Courses Database](https://github.com/dandt2020/CleanCode/tree/master/courses)
 ## Phần 4: Thiết kế RESTful API
-
+	[User RESTful](https://github.com/dandt2020/CleanCode/tree/master/RESTfulAPI)
 ## Phần 5: Lập trình Restful API
-
+	....
 ## Trắc nghiệm
 1. C
 2. B
