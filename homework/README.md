@@ -64,8 +64,8 @@ private class Comment{
 ```
 
 ## Phần 2: OOP và SOLID
-### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
-    - [GraphicEditor](https://github.com/dandt2020/CleanCode/tree/master/graphiceditor/after)
+### 1. [Hãy lập trình Java để thực hiện thiết kế như hình vẽ](https://github.com/dandt2020/CleanCode/tree/master/graphiceditor/after)
+    - [GraphicEditor]
 
 ## Phần 3: [Thiết kế CSDL Quan hệ theo đặc tả](https://github.com/dandt2020/CleanCode/tree/master/courses)
     - [Courses Database]
