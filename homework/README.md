@@ -69,7 +69,7 @@ private class Comment{
 
 ## Phần 3: [Thiết kế CSDL Quan hệ theo đặc tả](https://github.com/dandt2020/CleanCode/tree/master/courses)
     - [Courses Database]
-## Phần 4: [Thiết kế RESTful API]((https://github.com/dandt2020/CleanCode/tree/master/RESTfulAPI)
+## Phần 4: [Thiết kế RESTful API](https://github.com/dandt2020/CleanCode/tree/master/RESTfulAPI)
     - [User RESTful]
 	-> Do chưa biết về spring boot nên phần bài tập này em làm có thể không đúng 
 ## Phần 5: [Lập trình Restful API](https://github.com/dandt2020/CleanCode/tree/master/RESTfulAPI)
